@@ -1,0 +1,9 @@
+disable_overscan=1
+
+# Over clocking settings
+arm_freq=1000
+core_freq=400
+force_turbo=1
+
+# Disable adjusting the refresh rate of RAM every 500 ms
+disable_pvt=1
